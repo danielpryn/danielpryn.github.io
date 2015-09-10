@@ -16,7 +16,7 @@ Final change
 I'd like this  
 To be two separate lines...
 
-~~Are these changes in my branch?~~ <br>
+~~Are these changes in my branch?~~ <br />
 ~~Cross that!~~
 
 Trontocat?
