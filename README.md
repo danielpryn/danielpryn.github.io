@@ -3,8 +3,8 @@
 Welcome to my *cwaaaazy* page!
 
 Oh look, I've added his friend and made them smaller...  
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400px" height="400px" />
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="400px" height="400px" />
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300px" height="300px" />
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="300px" height="300px" />
 
 You want more **octocats?**
 Go here: [Octocats](https://octodex.github.com/)
