@@ -13,7 +13,7 @@ Go here: [Octocats](https://octodex.github.com/)
 Final change
 -noooo.
 
-I'd like this --
+I'd like this  
 To be two separate lines...
 
 ~~Are these changes in my branch?~~
