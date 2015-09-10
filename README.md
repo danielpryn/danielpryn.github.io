@@ -2,11 +2,22 @@
 
 Welcome to my *cwaaaazy* page!
 
-![GitHub Logo](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+Oh look, I've added his friend and made them smaller...  
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300px" height="300px" />
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="300px" height="300px" />
 
 You want more **octocats?**
 Go here: [Octocats](https://octodex.github.com/)
+-or just click [octocats](https://octodex.github.com/)
 
 Final change
 -noooo.
-@karenhyt
+
+I'd like this  
+To be two separate lines...
+
+~~Are these changes in my branch?~~ <br />
+~~Cross that!~~
+
+Trontocat?
+![Trontocat](https://octodex.github.com/images/octotron.jpg)
