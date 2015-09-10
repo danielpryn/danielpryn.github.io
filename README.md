@@ -2,7 +2,8 @@
 
 Welcome to my *cwaaaazy* page!
 
-Oh look, I've added his friend and made them smaller...
+Oh look, I've added his friend and made them smaller...  
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400px" height="400px" />  
 ![GitHub Logo](https://octodex.github.com/images/daftpunktocat-thomas.gif =400x400)
 ![GitHub Logo](https://octodex.github.com/images/daftpunktocat-guy.gif =400x400)
 
