@@ -8,8 +8,13 @@ Oh look, I've added his friend and made them smaller...
 
 You want more **octocats?**
 Go here: [Octocats](https://octodex.github.com/)
+-or just click [octocats](https://octodex.github.com/)
 
 Final change
 -noooo.
 
-Are these changes in my branch?
+~~Are these changes in my branch?~~
+~~Cross that!~~
+
+Trontocat?
+![Trontocat](https://octodex.github.com/images/octotron.jpg)
